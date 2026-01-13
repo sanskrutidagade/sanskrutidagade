@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Learning style: I focus on building strong fundamentals before moving ahead.
 
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1c8QD4fv1Df_pl0iItCaII9aCpK7ZVw7b/view?usp=sharing**
+- 📄 Know about my experiences: **[SanskrutiDagade_Resume](https://drive.google.com/file/d/1c8QD4fv1Df_pl0iItCaII9aCpK7ZVw7b/view)**
 
 - 📫 How to reach me **sanskrutidagade1510@gmail.com**
 
