@@ -45,5 +45,6 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 Java • Spring Boot • REST APIs • Kafka • Docker • MySQL • Git • Jenkins
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskrutidagade&show_icons=true&locale=en&layout=compact" alt="sanskrutidagade" /></p>
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutidagade&layout=compact&langs_count=6)
 
