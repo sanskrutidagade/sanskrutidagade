@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 Java • Spring Boot • REST APIs • Kafka • Docker • MySQL • Git • Jenkins
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutidagade&layout=compact&langs_count=6)
-
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutidagade&layout=compact&langs_count=6) -->
+<!-- -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutidagade&layout=compact&langs_count=6&exclude_repo=gomokugame,Railway-Reservation-system)
 
